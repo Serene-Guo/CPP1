@@ -1,0 +1,7 @@
+this project is to solve the Berth Allocation Problem. 
+
+This problem is to allocation of the coming vessels. 
+
+THere are many sections of wharf in a port. The vessels arriving at a port are berthed in a section, and the containers they ferry are transferred to other vessels or to the port. 
+
+Aim to find good berth allocations so as to minimise the movement of containers traffic across sections. 

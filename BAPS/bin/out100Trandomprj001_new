@@ -1,0 +1,694 @@
+running all
+greedy solution:
+0 1 1 1 1 2 2 
+45000
+temperature 1>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+change i,j:6 4
+obj value53000
+2th  neighbor:
+change i,j:6 1
+obj value113000
+3th  neighbor:
+change i,j:5 2
+obj value89000
+4th  neighbor:
+change i,j:6 4
+obj value53000
+5th  neighbor:
+change i,j:1 6
+obj value113000
+6th  neighbor:
+change i,j:1 6
+obj value113000
+7th  neighbor:
+change i,j:2 5
+obj value89000
+8th  neighbor:
+change i,j:1 6
+obj value113000
+9th  neighbor:
+change i,j:5 2
+obj value89000
+10th  neighbor:
+change i,j:6 3
+obj value101000
+temperature 2>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+change i,j:1 6
+obj value113000
+2th  neighbor:
+change i,j:5 2
+obj value89000
+3th  neighbor:
+change i,j:4 6
+obj value53000
+4th  neighbor:
+change i,j:6 3
+obj value101000
+5th  neighbor:
+change i,j:4 6
+obj value53000
+6th  neighbor:
+change i,j:5 2
+obj value89000
+7th  neighbor:
+change i,j:4 6
+obj value53000
+8th  neighbor:
+change i,j:6 4
+obj value53000
+9th  neighbor:
+change i,j:3 6
+obj value101000
+10th  neighbor:
+change i,j:3 6
+obj value101000
+temperature 3>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+change i,j:3 6
+obj value101000
+2th  neighbor:
+change i,j:1 6
+obj value113000
+3th  neighbor:
+change i,j:4 6
+obj value53000
+4th  neighbor:
+change i,j:1 6
+obj value113000
+5th  neighbor:
+change i,j:3 6
+obj value101000
+6th  neighbor:
+change i,j:1 6
+obj value113000
+7th  neighbor:
+change i,j:6 3
+obj value101000
+8th  neighbor:
+change i,j:6 1
+obj value113000
+9th  neighbor:
+change i,j:5 2
+obj value89000
+10th  neighbor:
+change i,j:5 2
+obj value89000
+temperature 4>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+change i,j:1 6
+obj value113000
+2th  neighbor:
+change i,j:4 6
+obj value53000
+3th  neighbor:
+change i,j:5 2
+obj value89000
+4th  neighbor:
+change i,j:4 6
+obj value53000
+5th  neighbor:
+change i,j:5 2
+obj value89000
+6th  neighbor:
+change i,j:6 1
+obj value113000
+7th  neighbor:
+change i,j:4 6
+obj value53000
+8th  neighbor:
+change i,j:6 4
+obj value53000
+9th  neighbor:
+change i,j:6 4
+obj value53000
+10th  neighbor:
+change i,j:4 6
+obj value53000
+temperature 5>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+change i,j:2 5
+obj value89000
+2th  neighbor:
+change i,j:4 6
+obj value53000
+3th  neighbor:
+change i,j:4 6
+obj value53000
+4th  neighbor:
+change i,j:6 1
+obj value113000
+5th  neighbor:
+change i,j:4 6
+obj value53000
+6th  neighbor:
+change i,j:6 3
+obj value101000
+7th  neighbor:
+change i,j:2 5
+obj value89000
+8th  neighbor:
+change i,j:3 6
+obj value101000
+9th  neighbor:
+change i,j:6 4
+obj value53000
+10th  neighbor:
+change i,j:4 6
+obj value53000
+temperature 6>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+change i,j:6 3
+obj value101000
+2th  neighbor:
+change i,j:1 6
+obj value113000
+3th  neighbor:
+change i,j:4 6
+obj value53000
+4th  neighbor:
+change i,j:5 2
+obj value89000
+5th  neighbor:
+change i,j:3 6
+obj value101000
+6th  neighbor:
+change i,j:6 4
+obj value53000
+7th  neighbor:
+change i,j:6 4
+obj value53000
+8th  neighbor:
+change i,j:5 2
+obj value89000
+9th  neighbor:
+change i,j:1 6
+obj value113000
+10th  neighbor:
+change i,j:4 6
+obj value53000
+temperature 7>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+change i,j:3 6
+obj value101000
+2th  neighbor:
+change i,j:6 3
+obj value101000
+3th  neighbor:
+change i,j:3 6
+obj value101000
+4th  neighbor:
+change i,j:6 1
+obj value113000
+5th  neighbor:
+change i,j:4 6
+obj value53000
+6th  neighbor:
+change i,j:6 4
+obj value53000
+7th  neighbor:
+change i,j:3 6
+obj value101000
+8th  neighbor:
+change i,j:6 1
+obj value113000
+9th  neighbor:
+change i,j:5 2
+obj value89000
+10th  neighbor:
+change i,j:6 1
+obj value113000
+temperature 8>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+change i,j:2 5
+obj value89000
+2th  neighbor:
+change i,j:6 3
+obj value101000
+3th  neighbor:
+change i,j:5 2
+obj value89000
+4th  neighbor:
+change i,j:3 6
+obj value101000
+5th  neighbor:
+change i,j:6 1
+obj value113000
+6th  neighbor:
+change i,j:3 6
+obj value101000
+7th  neighbor:
+change i,j:4 6
+obj value53000
+8th  neighbor:
+change i,j:2 5
+obj value89000
+9th  neighbor:
+change i,j:3 6
+obj value101000
+10th  neighbor:
+change i,j:2 5
+obj value89000
+temperature 9>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+change i,j:3 6
+obj value101000
+2th  neighbor:
+change i,j:6 4
+obj value53000
+3th  neighbor:
+change i,j:2 5
+obj value89000
+4th  neighbor:
+change i,j:4 6
+obj value53000
+5th  neighbor:
+change i,j:4 6
+obj value53000
+6th  neighbor:
+change i,j:5 2
+obj value89000
+7th  neighbor:
+change i,j:1 6
+obj value113000
+8th  neighbor:
+change i,j:6 1
+obj value113000
+9th  neighbor:
+change i,j:6 3
+obj value101000
+10th  neighbor:
+change i,j:4 6
+obj value53000
+temperature 10>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+change i,j:3 6
+obj value101000
+2th  neighbor:
+change i,j:3 6
+obj value101000
+3th  neighbor:
+change i,j:6 4
+obj value53000
+4th  neighbor:
+change i,j:4 6
+obj value53000
+5th  neighbor:
+change i,j:6 3
+obj value101000
+6th  neighbor:
+change i,j:4 6
+obj value53000
+7th  neighbor:
+change i,j:2 5
+obj value89000
+8th  neighbor:
+change i,j:6 4
+obj value53000
+9th  neighbor:
+change i,j:5 2
+obj value89000
+10th  neighbor:
+change i,j:6 3
+obj value101000
+temperature 11>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+change i,j:6 4
+obj value53000
+2th  neighbor:
+change i,j:2 5
+obj value89000
+3th  neighbor:
+change i,j:6 3
+obj value101000
+4th  neighbor:
+change i,j:6 4
+obj value53000
+5th  neighbor:
+change i,j:6 1
+obj value113000
+6th  neighbor:
+change i,j:6 1
+obj value113000
+7th  neighbor:
+change i,j:6 1
+obj value113000
+8th  neighbor:
+change i,j:5 2
+obj value89000
+9th  neighbor:
+change i,j:4 6
+obj value53000
+10th  neighbor:
+change i,j:3 6
+obj value101000
+temperature 12>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+change i,j:6 1
+obj value113000
+2th  neighbor:
+change i,j:5 2
+obj value89000
+3th  neighbor:
+change i,j:6 4
+obj value53000
+4th  neighbor:
+change i,j:6 4
+obj value53000
+5th  neighbor:
+change i,j:5 2
+obj value89000
+6th  neighbor:
+change i,j:5 2
+obj value89000
+7th  neighbor:
+change i,j:2 5
+obj value89000
+8th  neighbor:
+change i,j:3 6
+obj value101000
+9th  neighbor:
+change i,j:1 6
+obj value113000
+10th  neighbor:
+change i,j:4 6
+obj value53000
+temperature 13>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+change i,j:3 6
+obj value101000
+2th  neighbor:
+change i,j:4 6
+obj value53000
+3th  neighbor:
+change i,j:5 2
+obj value89000
+4th  neighbor:
+change i,j:1 6
+obj value113000
+5th  neighbor:
+change i,j:4 6
+obj value53000
+6th  neighbor:
+change i,j:6 4
+obj value53000
+7th  neighbor:
+change i,j:2 5
+obj value89000
+8th  neighbor:
+change i,j:1 6
+obj value113000
+9th  neighbor:
+change i,j:2 5
+obj value89000
+10th  neighbor:
+change i,j:4 6
+obj value53000
+temperature 14>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+change i,j:6 1
+obj value113000
+2th  neighbor:
+change i,j:6 4
+obj value53000
+3th  neighbor:
+change i,j:1 6
+obj value113000
+4th  neighbor:
+change i,j:6 1
+obj value113000
+5th  neighbor:
+change i,j:4 6
+obj value53000
+6th  neighbor:
+change i,j:2 5
+obj value89000
+7th  neighbor:
+change i,j:3 6
+obj value101000
+8th  neighbor:
+change i,j:1 6
+obj value113000
+9th  neighbor:
+change i,j:5 2
+obj value89000
+10th  neighbor:
+change i,j:2 5
+obj value89000
+temperature 15>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+change i,j:1 6
+obj value113000
+2th  neighbor:
+change i,j:6 4
+obj value53000
+3th  neighbor:
+change i,j:6 1
+obj value113000
+4th  neighbor:
+change i,j:6 3
+obj value101000
+5th  neighbor:
+change i,j:1 6
+obj value113000
+6th  neighbor:
+change i,j:6 3
+obj value101000
+7th  neighbor:
+change i,j:6 3
+obj value101000
+8th  neighbor:
+change i,j:6 3
+obj value101000
+9th  neighbor:
+change i,j:6 1
+obj value113000
+10th  neighbor:
+change i,j:4 6
+obj value53000
+temperature 16>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+change i,j:2 5
+obj value89000
+2th  neighbor:
+change i,j:6 1
+obj value113000
+3th  neighbor:
+change i,j:3 6
+obj value101000
+4th  neighbor:
+change i,j:6 1
+obj value113000
+5th  neighbor:
+change i,j:6 4
+obj value53000
+6th  neighbor:
+change i,j:5 2
+obj value89000
+7th  neighbor:
+change i,j:5 2
+obj value89000
+8th  neighbor:
+change i,j:6 4
+obj value53000
+9th  neighbor:
+change i,j:3 6
+obj value101000
+10th  neighbor:
+change i,j:2 5
+obj value89000
+temperature 17>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+change i,j:3 6
+obj value101000
+2th  neighbor:
+change i,j:6 4
+obj value53000
+3th  neighbor:
+change i,j:6 1
+obj value113000
+4th  neighbor:
+change i,j:6 1
+obj value113000
+5th  neighbor:
+change i,j:2 5
+obj value89000
+6th  neighbor:
+change i,j:6 1
+obj value113000
+7th  neighbor:
+change i,j:2 5
+obj value89000
+8th  neighbor:
+change i,j:4 6
+obj value53000
+9th  neighbor:
+change i,j:4 6
+obj value53000
+10th  neighbor:
+change i,j:6 4
+obj value53000
+temperature 18>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+change i,j:2 5
+obj value89000
+2th  neighbor:
+change i,j:2 5
+obj value89000
+3th  neighbor:
+change i,j:6 1
+obj value113000
+4th  neighbor:
+change i,j:5 2
+obj value89000
+5th  neighbor:
+change i,j:6 3
+obj value101000
+6th  neighbor:
+change i,j:2 5
+obj value89000
+7th  neighbor:
+change i,j:6 1
+obj value113000
+8th  neighbor:
+change i,j:1 6
+obj value113000
+9th  neighbor:
+change i,j:4 6
+obj value53000
+10th  neighbor:
+change i,j:6 4
+obj value53000
+temperature 19>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+change i,j:6 3
+obj value101000
+2th  neighbor:
+change i,j:5 2
+obj value89000
+3th  neighbor:
+change i,j:2 5
+obj value89000
+4th  neighbor:
+change i,j:6 4
+obj value53000
+5th  neighbor:
+change i,j:5 2
+obj value89000
+6th  neighbor:
+change i,j:3 6
+obj value101000
+7th  neighbor:
+change i,j:4 6
+obj value53000
+8th  neighbor:
+change i,j:1 6
+obj value113000
+9th  neighbor:
+change i,j:6 4
+obj value53000
+10th  neighbor:
+change i,j:6 3
+obj value101000
+temperature 20>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+change i,j:6 4
+obj value53000
+2th  neighbor:
+change i,j:1 6
+obj value113000
+3th  neighbor:
+change i,j:6 4
+obj value53000
+4th  neighbor:
+change i,j:6 4
+obj value53000
+5th  neighbor:
+change i,j:1 6
+obj value113000
+6th  neighbor:
+change i,j:2 5
+obj value89000
+7th  neighbor:
+change i,j:3 6
+obj value101000
+8th  neighbor:
+change i,j:4 6
+obj value53000
+9th  neighbor:
+change i,j:5 2
+obj value89000
+10th  neighbor:
+change i,j:3 6
+obj value101000
+temperature 21>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+change i,j:6 4
+obj value53000
+2th  neighbor:
+change i,j:4 6
+obj value53000
+3th  neighbor:
+change i,j:3 6
+obj value101000
+4th  neighbor:
+change i,j:4 6
+obj value53000
+5th  neighbor:
+change i,j:6 4
+obj value53000
+6th  neighbor:
+change i,j:6 3
+obj value101000
+7th  neighbor:
+change i,j:5 2
+obj value89000
+8th  neighbor:
+change i,j:6 1
+obj value113000
+9th  neighbor:
+change i,j:6 1
+obj value113000
+10th  neighbor:
+change i,j:3 6
+obj value101000
+temperature 22>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+change i,j:5 2
+obj value89000
+2th  neighbor:
+change i,j:6 3
+obj value101000
+3th  neighbor:
+change i,j:1 6
+obj value113000
+4th  neighbor:
+change i,j:1 6
+obj value113000
+5th  neighbor:
+change i,j:2 5
+obj value89000
+6th  neighbor:
+change i,j:4 6
+obj value53000
+7th  neighbor:
+change i,j:5 2
+obj value89000
+8th  neighbor:
+change i,j:4 6
+obj value53000
+9th  neighbor:
+change i,j:6 3
+obj value101000
+10th  neighbor:
+change i,j:5 2
+obj value89000
+proj-d001-01.prj --- 6 vessels, 2 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 45000
+Penalty      = 0
+Obj Value    = 45000
+Time taken (sec) = 0.02638
+
+End of program

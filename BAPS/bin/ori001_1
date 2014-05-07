@@ -1,0 +1,1336 @@
+running all
+initial solution:
+0 1 1 1 1 2 2 
+initial obj value:45000
+temperature 1>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+2th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+3th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+4th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+5th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+accept neighour:
+6th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 45000
+deltCost -8000
+accept neighour:
+7th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+8th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+9th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+10th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+accept neighour:
+temperature 2>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 45000
+deltCost -8000
+accept neighour:
+2th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+accept neighour:
+3th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 45000
+deltCost -8000
+accept neighour:
+4th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+5th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+6th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+7th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+8th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+9th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+10th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+temperature 3>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+2th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+accept neighour:
+3th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 45000
+deltCost -8000
+accept neighour:
+4th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+5th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+6th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+7th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+8th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+9th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+10th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+temperature 4>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+2th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+3th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+4th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+5th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+6th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+7th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+8th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+9th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+10th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+temperature 5>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+2th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+3th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+4th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+5th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+6th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+accept neighour:
+7th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 45000
+deltCost -8000
+accept neighour:
+8th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+9th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+10th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+temperature 6>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+2th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+3th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+4th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+5th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+6th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+7th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+8th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+9th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+10th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+temperature 7>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+2th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+3th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+4th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+5th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+accept neighour:
+6th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 45000
+deltCost -8000
+accept neighour:
+7th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+8th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+9th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+10th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+temperature 8>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+accept neighour:
+2th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 45000
+deltCost -8000
+accept neighour:
+3th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+4th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+5th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+6th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+accept neighour:
+7th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 45000
+deltCost -8000
+accept neighour:
+8th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+9th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+10th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+temperature 9>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+2th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+3th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+4th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+5th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+6th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+7th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+accept neighour:
+8th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 45000
+deltCost -8000
+accept neighour:
+9th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+10th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+temperature 10>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+2th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+3th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+4th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+5th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+6th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+7th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+8th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+9th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+10th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+accept neighour:
+temperature 11>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 45000
+deltCost -8000
+accept neighour:
+2th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+accept neighour:
+3th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 45000
+deltCost -8000
+accept neighour:
+4th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+5th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+accept neighour:
+6th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 45000
+deltCost -8000
+accept neighour:
+7th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+8th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+9th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+accept neighour:
+10th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 45000
+deltCost -8000
+accept neighour:
+temperature 12>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+2th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+3th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+4th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+5th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+6th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+7th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+8th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+9th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+10th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+temperature 13>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+2th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+3th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+4th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+5th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+6th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+7th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+8th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+9th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+10th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+temperature 14>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+2th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+3th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+4th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+5th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+6th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+7th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+8th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+9th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+10th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+temperature 15>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+2th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+3th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+4th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+5th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+6th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+7th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+8th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+9th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+10th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+temperature 16>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+accept neighour:
+2th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 45000
+deltCost -8000
+accept neighour:
+3th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+4th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+5th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+6th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+7th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+8th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+9th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+10th  neighbor:
+neighoor num is 4
+the number of pairs which can exchange:4
+exchange vessels: 4 and 6
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 53000
+deltCost 8000
+proj-d001-01.prj --- 6 vessels, 2 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 45000
+Penalty      = 0
+Obj Value    = 45000
+Time taken (sec) = 0.057726
+
+End of program

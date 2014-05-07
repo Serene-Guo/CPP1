@@ -1,0 +1,1134 @@
+running all
+greedy solution:
+0 1 2 2 2 2 1 1 1 2 1 1 1 1 1 1 1 2 1 1 1 -1 1 2 3 3 2 1 3 3 2 1 1 1 3 1 3 1 2 1 1 3 2 1 1 1 1 1 1 3 1 3 2 2 3 2 1 2 1 3 2 3 2 1 3 4 1 3 3 1 3 3 1 2 1 3 3 1 3 2 3 1 3 3 1 1 1 1 2 3 3 3 1 2 1 1 3 1 3 3 3 2 2 1 2 1 1 1 3 1 1 4 1 3 3 2 3 2 1 2 -1 1 2 2 3 1 2 2 3 3 1 1 2 4 1 2 1 1 1 1 -1 4 3 1 3 3 1 3 1 2 1 1 1 1 1 1 1 3 2 3 2 1 2 1 1 1 1 2 2 1 1 3 1 3 3 2 3 1 1 1 3 2 3 2 2 1 3 2 1 3 1 1 1 3 1 2 3 3 3 2 1 1 1 3 3 1 1 1 1 1 4 2 1 1 2 2 1 1 1 3 3 3 3 2 3 2 1 1 1 2 1 3 1 2 1 3 3 1 1 2 2 2 4 1 3 1 1 2 1 1 3 1 1 2 1 2 1 3 1 1 2 1 1 3 1 3 3 1 1 3 -1 2 3 1 1 1 3 1 3 -1 1 2 3 3 1 3 1 2 3 1 1 1 2 
+305134210
+temperature 1>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+ramdon value j: 1984
+exchange vessels: 130 and 272
+after exchange, obj value is : 305222190
+prob is :0
+2th  neighbor:
+ramdon value j: 2279
+exchange vessels: 156 and 176
+after exchange, obj value is : 305394390
+prob is :0
+3th  neighbor:
+ramdon value j: 687
+exchange vessels: 52 and 74
+after exchange, obj value is : 305465430
+prob is :0
+4th  neighbor:
+ramdon value j: 116
+exchange vessels: 9 and 90
+after exchange, obj value is : 305480150
+prob is :0
+5th  neighbor:
+ramdon value j: 628
+exchange vessels: 46 and 255
+after exchange, obj value is : 305533070
+prob is :0
+6th  neighbor:
+ramdon value j: 2288
+exchange vessels: 174 and 229
+after exchange, obj value is : 305591950
+prob is :0
+7th  neighbor:
+ramdon value j: 2150
+exchange vessels: 156 and 253
+after exchange, obj value is : 305542030
+prob is :0
+8th  neighbor:
+ramdon value j: 249
+exchange vessels: 16 and 189
+after exchange, obj value is : 305559350
+prob is :0
+9th  neighbor:
+ramdon value j: 2564
+exchange vessels: 199 and 282
+after exchange, obj value is : 305584950
+prob is :0
+10th  neighbor:
+ramdon value j: 216
+exchange vessels: 13 and 70
+after exchange, obj value is : 305708230
+prob is :0
+temperature 2>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+ramdon value j: 440
+exchange vessels: 17 and 78
+after exchange, obj value is : 305735110
+prob is :0
+2th  neighbor:
+ramdon value j: 2871
+exchange vessels: 244 and 254
+after exchange, obj value is : 305704770
+prob is :0
+3th  neighbor:
+ramdon value j: 1939
+exchange vessels: 126 and 250
+after exchange, obj value is : 305697090
+prob is :0
+4th  neighbor:
+ramdon value j: 1477
+exchange vessels: 90 and 280
+after exchange, obj value is : 305717070
+prob is :0
+5th  neighbor:
+ramdon value j: 72
+exchange vessels: 5 and 266
+after exchange, obj value is : 305743950
+prob is :0
+6th  neighbor:
+ramdon value j: 2710
+exchange vessels: 256 and 278
+after exchange, obj value is : 305887690
+prob is :0
+7th  neighbor:
+ramdon value j: 1296
+exchange vessels: 81 and 156
+after exchange, obj value is : 305880130
+prob is :0
+8th  neighbor:
+ramdon value j: 2388
+exchange vessels: 198 and 245
+after exchange, obj value is : 305987930
+prob is :0
+9th  neighbor:
+ramdon value j: 2632
+exchange vessels: 222 and 247
+after exchange, obj value is : 306018650
+prob is :0
+10th  neighbor:
+ramdon value j: 1454
+exchange vessels: 81 and 166
+after exchange, obj value is : 305999210
+prob is :0
+temperature 3>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+ramdon value j: 1241
+exchange vessels: 73 and 247
+after exchange, obj value is : 306018290
+prob is :0
+2th  neighbor:
+ramdon value j: 815
+exchange vessels: 34 and 282
+after exchange, obj value is : 306012530
+prob is :0
+3th  neighbor:
+ramdon value j: 1366
+exchange vessels: 85 and 229
+after exchange, obj value is : 305952970
+prob is :0
+4th  neighbor:
+ramdon value j: 462
+exchange vessels: 22 and 83
+after exchange, obj value is : 306081490
+prob is :0
+5th  neighbor:
+ramdon value j: 1501
+exchange vessels: 92 and 250
+after exchange, obj value is : 306109570
+prob is :0
+6th  neighbor:
+ramdon value j: 1481
+exchange vessels: 78 and 103
+after exchange, obj value is : 306083650
+prob is :0
+7th  neighbor:
+ramdon value j: 1089
+exchange vessels: 60 and 77
+after exchange, obj value is : 306082570
+prob is :0
+8th  neighbor:
+ramdon value j: 1487
+exchange vessels: 84 and 271
+after exchange, obj value is : 306152770
+prob is :0
+9th  neighbor:
+ramdon value j: 408
+exchange vessels: 21 and 113
+after exchange, obj value is : 329169190
+prob is :0
+10th  neighbor:
+ramdon value j: 360
+exchange vessels: 19 and 282
+after exchange, obj value is : 329170340
+prob is :0
+temperature 4>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+ramdon value j: 1745
+exchange vessels: 116 and 149
+after exchange, obj value is : 329188260
+prob is :0
+2th  neighbor:
+ramdon value j: 2298
+exchange vessels: 192 and 220
+after exchange, obj value is : 329208450
+prob is :0
+3th  neighbor:
+ramdon value j: 1785
+exchange vessels: 116 and 144
+after exchange, obj value is : 329225090
+prob is :0
+4th  neighbor:
+ramdon value j: 1445
+exchange vessels: 85 and 134
+after exchange, obj value is : 329398090
+prob is :0
+5th  neighbor:
+ramdon value j: 2169
+exchange vessels: 134 and 212
+after exchange, obj value is : 329378050
+prob is :0
+6th  neighbor:
+ramdon value j: 1856
+exchange vessels: 143 and 212
+after exchange, obj value is : 329360850
+prob is :0
+7th  neighbor:
+ramdon value j: 318
+exchange vessels: 18 and 74
+after exchange, obj value is : 329356770
+prob is :0
+8th  neighbor:
+ramdon value j: 783
+exchange vessels: 40 and 71
+after exchange, obj value is : 329380610
+prob is :0
+9th  neighbor:
+ramdon value j: 2408
+exchange vessels: 184 and 285
+after exchange, obj value is : 329451010
+prob is :0
+10th  neighbor:
+ramdon value j: 1924
+exchange vessels: 126 and 279
+after exchange, obj value is : 389444650
+prob is :0
+temperature 5>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+ramdon value j: 528
+exchange vessels: 19 and 232
+after exchange, obj value is : 389387100
+prob is :0
+2th  neighbor:
+ramdon value j: 2738
+exchange vessels: 241 and 250
+after exchange, obj value is : 389392380
+prob is :0
+3th  neighbor:
+ramdon value j: 1893
+exchange vessels: 126 and 280
+after exchange, obj value is : 389401100
+prob is :0
+4th  neighbor:
+ramdon value j: 13
+exchange vessels: 3 and 108
+after exchange, obj value is : 389405880
+prob is :0
+5th  neighbor:
+ramdon value j: 142
+exchange vessels: 9 and 280
+after exchange, obj value is : 359419860
+prob is :0
+6th  neighbor:
+ramdon value j: 1102
+exchange vessels: 65 and 246
+after exchange, obj value is : 359460980
+prob is :0
+7th  neighbor:
+ramdon value j: 1629
+exchange vessels: 109 and 280
+after exchange, obj value is : 359584620
+prob is :0
+8th  neighbor:
+ramdon value j: 1509
+exchange vessels: 84 and 280
+after exchange, obj value is : 359547900
+prob is :0
+9th  neighbor:
+ramdon value j: 1168
+exchange vessels: 53 and 188
+after exchange, obj value is : 359593260
+prob is :0
+10th  neighbor:
+ramdon value j: 384
+exchange vessels: 16 and 175
+after exchange, obj value is : 359662380
+prob is :0
+temperature 6>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+ramdon value j: 923
+exchange vessels: 39 and 188
+after exchange, obj value is : 359659140
+prob is :0
+2th  neighbor:
+ramdon value j: 2128
+exchange vessels: 121 and 265
+after exchange, obj value is : 359689460
+prob is :0
+3th  neighbor:
+ramdon value j: 1525
+exchange vessels: 72 and 247
+after exchange, obj value is : 359712140
+prob is :0
+4th  neighbor:
+ramdon value j: 1253
+exchange vessels: 43 and 72
+after exchange, obj value is : 359679740
+prob is :0
+5th  neighbor:
+ramdon value j: 1707
+exchange vessels: 77 and 268
+after exchange, obj value is : 359677580
+prob is :0
+6th  neighbor:
+ramdon value j: 2969
+exchange vessels: 160 and 252
+after exchange, obj value is : 359724020
+prob is :0
+7th  neighbor:
+ramdon value j: 3421
+exchange vessels: 265 and 280
+after exchange, obj value is : 359758580
+prob is :0
+8th  neighbor:
+ramdon value j: 3286
+exchange vessels: 231 and 290
+after exchange, obj value is : 359747700
+prob is :0
+9th  neighbor:
+ramdon value j: 107
+exchange vessels: 8 and 24
+after exchange, obj value is : 359788910
+prob is :0
+10th  neighbor:
+ramdon value j: 2617
+exchange vessels: 143 and 230
+after exchange, obj value is : 359830500
+prob is :0
+temperature 7>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+ramdon value j: 2578
+exchange vessels: 135 and 163
+after exchange, obj value is : 359804580
+prob is :0
+2th  neighbor:
+ramdon value j: 3277
+exchange vessels: 157 and 278
+after exchange, obj value is : 359768880
+prob is :0
+3th  neighbor:
+ramdon value j: 929
+exchange vessels: 23 and 136
+after exchange, obj value is : 359787240
+prob is :0
+4th  neighbor:
+ramdon value j: 480
+exchange vessels: 13 and 72
+after exchange, obj value is : 359792960
+prob is :0
+5th  neighbor:
+ramdon value j: 3142
+exchange vessels: 137 and 224
+after exchange, obj value is : 359831720
+prob is :0
+6th  neighbor:
+ramdon value j: 1600
+exchange vessels: 63 and 99
+after exchange, obj value is : 359849220
+prob is :0
+7th  neighbor:
+ramdon value j: 493
+exchange vessels: 14 and 57
+after exchange, obj value is : 359930220
+prob is :0
+8th  neighbor:
+ramdon value j: 3283
+exchange vessels: 222 and 227
+after exchange, obj value is : 359944260
+prob is :0
+9th  neighbor:
+ramdon value j: 876
+exchange vessels: 27 and 40
+after exchange, obj value is : 359991100
+prob is :0
+10th  neighbor:
+ramdon value j: 1594
+exchange vessels: 70 and 232
+after exchange, obj value is : 359955620
+prob is :0
+temperature 8>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+ramdon value j: 815
+exchange vessels: 28 and 31
+after exchange, obj value is : 359943690
+prob is :0
+2th  neighbor:
+ramdon value j: 3102
+exchange vessels: 265 and 271
+after exchange, obj value is : 359891850
+prob is :0
+3th  neighbor:
+ramdon value j: 1983
+exchange vessels: 98 and 195
+after exchange, obj value is : 359959690
+prob is :0
+4th  neighbor:
+ramdon value j: 2788
+exchange vessels: 149 and 285
+after exchange, obj value is : 359923850
+prob is :0
+5th  neighbor:
+ramdon value j: 2905
+exchange vessels: 163 and 173
+after exchange, obj value is : 359886730
+prob is :0
+6th  neighbor:
+ramdon value j: 2014
+exchange vessels: 109 and 282
+after exchange, obj value is : 359780530
+prob is :0
+7th  neighbor:
+ramdon value j: 1517
+exchange vessels: 72 and 188
+after exchange, obj value is : 359756850
+prob is :0
+8th  neighbor:
+ramdon value j: 2827
+exchange vessels: 232 and 271
+after exchange, obj value is : 359837850
+prob is :0
+9th  neighbor:
+ramdon value j: 437
+exchange vessels: 14 and 74
+after exchange, obj value is : 359844090
+prob is :0
+10th  neighbor:
+ramdon value j: 2410
+exchange vessels: 166 and 238
+after exchange, obj value is : 359870010
+prob is :0
+temperature 9>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+ramdon value j: 2093
+exchange vessels: 134 and 282
+after exchange, obj value is : 359903050
+prob is :0
+2th  neighbor:
+ramdon value j: 1600
+exchange vessels: 88 and 285
+after exchange, obj value is : 359954250
+prob is :0
+3th  neighbor:
+ramdon value j: 2200
+exchange vessels: 135 and 174
+after exchange, obj value is : 359995290
+prob is :0
+4th  neighbor:
+ramdon value j: 2519
+exchange vessels: 163 and 191
+after exchange, obj value is : 360147210
+prob is :0
+5th  neighbor:
+ramdon value j: 81
+exchange vessels: 6 and 134
+after exchange, obj value is : 360081330
+prob is :0
+6th  neighbor:
+ramdon value j: 1380
+exchange vessels: 66 and 132
+after exchange, obj value is : 360118590
+prob is :0
+7th  neighbor:
+ramdon value j: 485
+exchange vessels: 13 and 158
+after exchange, obj value is : 360115350
+prob is :0
+8th  neighbor:
+ramdon value j: 1087
+exchange vessels: 46 and 76
+after exchange, obj value is : 360189590
+prob is :0
+9th  neighbor:
+ramdon value j: 2686
+exchange vessels: 262 and 268
+after exchange, obj value is : 360160430
+prob is :0
+10th  neighbor:
+ramdon value j: 322
+exchange vessels: 9 and 175
+after exchange, obj value is : 390142870
+prob is :0
+temperature 10>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+ramdon value j: 1915
+exchange vessels: 139 and 193
+after exchange, obj value is : 390122830
+prob is :0
+2th  neighbor:
+ramdon value j: 921
+exchange vessels: 55 and 259
+after exchange, obj value is : 390130390
+prob is :0
+3th  neighbor:
+ramdon value j: 1513
+exchange vessels: 113 and 240
+after exchange, obj value is : 411148910
+prob is :0
+4th  neighbor:
+ramdon value j: 2076
+exchange vessels: 166 and 256
+after exchange, obj value is : 411128310
+prob is :0
+5th  neighbor:
+ramdon value j: 309
+exchange vessels: 13 and 37
+after exchange, obj value is : 411139110
+prob is :0
+6th  neighbor:
+ramdon value j: 321
+exchange vessels: 16 and 68
+after exchange, obj value is : 411142950
+prob is :0
+7th  neighbor:
+ramdon value j: 1825
+exchange vessels: 139 and 161
+after exchange, obj value is : 411090630
+prob is :0
+8th  neighbor:
+ramdon value j: 497
+exchange vessels: 26 and 186
+after exchange, obj value is : 411144580
+prob is :0
+9th  neighbor:
+ramdon value j: 1844
+exchange vessels: 146 and 191
+after exchange, obj value is : 411113900
+prob is :0
+10th  neighbor:
+ramdon value j: 693
+exchange vessels: 35 and 183
+after exchange, obj value is : 411071780
+prob is :0
+temperature 11>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+ramdon value j: 1907
+exchange vessels: 136 and 290
+after exchange, obj value is : 411090980
+prob is :0
+2th  neighbor:
+ramdon value j: 2072
+exchange vessels: 161 and 289
+after exchange, obj value is : 411082180
+prob is :0
+3th  neighbor:
+ramdon value j: 1257
+exchange vessels: 70 and 251
+after exchange, obj value is : 411076940
+prob is :0
+4th  neighbor:
+ramdon value j: 1086
+exchange vessels: 53 and 227
+after exchange, obj value is : 411043460
+prob is :0
+5th  neighbor:
+ramdon value j: 1747
+exchange vessels: 105 and 119
+after exchange, obj value is : 411030500
+prob is :0
+6th  neighbor:
+ramdon value j: 1408
+exchange vessels: 67 and 267
+after exchange, obj value is : 411222740
+prob is :0
+7th  neighbor:
+ramdon value j: 2252
+exchange vessels: 136 and 178
+after exchange, obj value is : 411170020
+prob is :0
+8th  neighbor:
+ramdon value j: 1211
+exchange vessels: 63 and 84
+after exchange, obj value is : 411234940
+prob is :0
+9th  neighbor:
+ramdon value j: 1782
+exchange vessels: 108 and 130
+after exchange, obj value is : 411197160
+prob is :0
+10th  neighbor:
+ramdon value j: 499
+exchange vessels: 26 and 175
+after exchange, obj value is : 425165560
+prob is :0
+temperature 12>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+ramdon value j: 146
+exchange vessels: 6 and 256
+after exchange, obj value is : 425214000
+prob is :0
+2th  neighbor:
+ramdon value j: 2574
+exchange vessels: 161 and 256
+after exchange, obj value is : 425197160
+prob is :0
+3th  neighbor:
+ramdon value j: 455
+exchange vessels: 26 and 75
+after exchange, obj value is : 381264100
+prob is :0
+4th  neighbor:
+ramdon value j: 2567
+exchange vessels: 183 and 186
+after exchange, obj value is : 381305080
+prob is :0
+5th  neighbor:
+ramdon value j: 2279
+exchange vessels: 140 and 257
+after exchange, obj value is : 425267000
+prob is :0
+6th  neighbor:
+ramdon value j: 2665
+exchange vessels: 179 and 262
+after exchange, obj value is : 425254580
+prob is :0
+7th  neighbor:
+ramdon value j: 2001
+exchange vessels: 110 and 146
+after exchange, obj value is : 425130940
+prob is :0
+8th  neighbor:
+ramdon value j: 2776
+exchange vessels: 184 and 287
+after exchange, obj value is : 425073340
+prob is :0
+9th  neighbor:
+ramdon value j: 2151
+exchange vessels: 153 and 250
+after exchange, obj value is : 425075500
+prob is :0
+10th  neighbor:
+ramdon value j: 1269
+exchange vessels: 71 and 251
+after exchange, obj value is : 425083340
+prob is :0
+temperature 13>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+ramdon value j: 1539
+exchange vessels: 75 and 171
+after exchange, obj value is : 455068400
+prob is :0
+2th  neighbor:
+ramdon value j: 3191
+exchange vessels: 236 and 259
+after exchange, obj value is : 455082480
+prob is :0
+3th  neighbor:
+ramdon value j: 1961
+exchange vessels: 105 and 146
+after exchange, obj value is : 455130000
+prob is :0
+4th  neighbor:
+ramdon value j: 2617
+exchange vessels: 158 and 281
+after exchange, obj value is : 455158080
+prob is :0
+5th  neighbor:
+ramdon value j: 605
+exchange vessels: 30 and 137
+after exchange, obj value is : 455129920
+prob is :0
+6th  neighbor:
+ramdon value j: 2528
+exchange vessels: 151 and 232
+after exchange, obj value is : 455083480
+prob is :0
+7th  neighbor:
+ramdon value j: 3093
+exchange vessels: 206 and 267
+after exchange, obj value is : 454953400
+prob is :0
+8th  neighbor:
+ramdon value j: 1691
+exchange vessels: 95 and 206
+after exchange, obj value is : 455014400
+prob is :0
+9th  neighbor:
+ramdon value j: 1967
+exchange vessels: 110 and 222
+after exchange, obj value is : 455036560
+prob is :0
+10th  neighbor:
+ramdon value j: 743
+exchange vessels: 35 and 156
+after exchange, obj value is : 455085160
+prob is :0
+temperature 14>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+ramdon value j: 3098
+exchange vessels: 238 and 288
+after exchange, obj value is : 455135080
+prob is :0
+2th  neighbor:
+ramdon value j: 122
+exchange vessels: 9 and 98
+after exchange, obj value is : 455113320
+prob is :0
+3th  neighbor:
+ramdon value j: 1953
+exchange vessels: 121 and 149
+after exchange, obj value is : 455087720
+prob is :0
+4th  neighbor:
+ramdon value j: 2323
+exchange vessels: 151 and 232
+after exchange, obj value is : 455134160
+prob is :0
+5th  neighbor:
+ramdon value j: 1903
+exchange vessels: 105 and 245
+after exchange, obj value is : 455093840
+prob is :0
+6th  neighbor:
+ramdon value j: 2452
+exchange vessels: 161 and 241
+after exchange, obj value is : 455112940
+prob is :0
+7th  neighbor:
+ramdon value j: 2469
+exchange vessels: 158 and 230
+after exchange, obj value is : 455100810
+prob is :0
+8th  neighbor:
+ramdon value j: 1100
+exchange vessels: 62 and 177
+after exchange, obj value is : 455122950
+prob is :0
+9th  neighbor:
+ramdon value j: 929
+exchange vessels: 46 and 153
+after exchange, obj value is : 455106310
+prob is :0
+10th  neighbor:
+ramdon value j: 2923
+exchange vessels: 226 and 241
+after exchange, obj value is : 455175210
+prob is :0
+temperature 15>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+ramdon value j: 618
+exchange vessels: 31 and 272
+after exchange, obj value is : 455141550
+prob is :0
+2th  neighbor:
+ramdon value j: 1105
+exchange vessels: 69 and 188
+after exchange, obj value is : 455165750
+prob is :0
+3th  neighbor:
+ramdon value j: 1399
+exchange vessels: 74 and 218
+after exchange, obj value is : 455119550
+prob is :0
+4th  neighbor:
+ramdon value j: 1336
+exchange vessels: 71 and 165
+after exchange, obj value is : 455085790
+prob is :0
+5th  neighbor:
+ramdon value j: 1147
+exchange vessels: 66 and 97
+after exchange, obj value is : 455119270
+prob is :0
+6th  neighbor:
+ramdon value j: 1052
+exchange vessels: 58 and 238
+after exchange, obj value is : 454990910
+prob is :0
+7th  neighbor:
+ramdon value j: 2875
+exchange vessels: 156 and 245
+after exchange, obj value is : 454991990
+prob is :0
+8th  neighbor:
+ramdon value j: 241
+exchange vessels: 8 and 185
+after exchange, obj value is : 454974780
+prob is :0
+9th  neighbor:
+ramdon value j: 3012
+exchange vessels: 165 and 191
+after exchange, obj value is : 454981220
+prob is :0
+10th  neighbor:
+ramdon value j: 2223
+exchange vessels: 111 and 166
+after exchange, obj value is : 454974220
+prob is :0
+temperature 16>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+ramdon value j: 2857
+exchange vessels: 206 and 222
+after exchange, obj value is : 454976300
+prob is :0
+2th  neighbor:
+ramdon value j: 2947
+exchange vessels: 233 and 272
+after exchange, obj value is : 454965420
+prob is :0
+3th  neighbor:
+ramdon value j: 2828
+exchange vessels: 188 and 226
+after exchange, obj value is : 454974380
+prob is :0
+4th  neighbor:
+ramdon value j: 1288
+exchange vessels: 69 and 267
+after exchange, obj value is : 455102740
+prob is :0
+5th  neighbor:
+ramdon value j: 1943
+exchange vessels: 103 and 222
+after exchange, obj value is : 455078980
+prob is :0
+6th  neighbor:
+ramdon value j: 422
+exchange vessels: 17 and 193
+after exchange, obj value is : 455102180
+prob is :0
+7th  neighbor:
+ramdon value j: 3255
+exchange vessels: 222 and 238
+after exchange, obj value is : 455124860
+prob is :0
+8th  neighbor:
+ramdon value j: 2685
+exchange vessels: 166 and 287
+after exchange, obj value is : 455079860
+prob is :0
+9th  neighbor:
+ramdon value j: 542
+exchange vessels: 23 and 188
+after exchange, obj value is : 455069620
+prob is :0
+10th  neighbor:
+ramdon value j: 1745
+exchange vessels: 95 and 122
+after exchange, obj value is : 455068340
+prob is :0
+temperature 17>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+ramdon value j: 1183
+exchange vessels: 47 and 121
+after exchange, obj value is : 455027300
+prob is :0
+2th  neighbor:
+ramdon value j: 2993
+exchange vessels: 171 and 203
+after exchange, obj value is : 454990660
+prob is :0
+3th  neighbor:
+ramdon value j: 117
+exchange vessels: 5 and 53
+after exchange, obj value is : 454959940
+prob is :0
+4th  neighbor:
+ramdon value j: 2282
+exchange vessels: 125 and 206
+after exchange, obj value is : 454962780
+prob is :0
+5th  neighbor:
+ramdon value j: 3039
+exchange vessels: 178 and 186
+after exchange, obj value is : 454938810
+prob is :0
+6th  neighbor:
+ramdon value j: 2899
+exchange vessels: 170 and 186
+after exchange, obj value is : 455061700
+prob is :0
+7th  neighbor:
+ramdon value j: 3320
+exchange vessels: 202 and 238
+after exchange, obj value is : 455086000
+prob is :0
+8th  neighbor:
+ramdon value j: 48
+exchange vessels: 4 and 134
+after exchange, obj value is : 455080600
+prob is :0
+9th  neighbor:
+ramdon value j: 2084
+exchange vessels: 112 and 292
+after exchange, obj value is : 455060080
+prob is :0
+10th  neighbor:
+ramdon value j: 622
+exchange vessels: 27 and 245
+after exchange, obj value is : 455031920
+prob is :0
+temperature 18>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+ramdon value j: 3420
+exchange vessels: 199 and 280
+after exchange, obj value is : 455035240
+prob is :0
+2th  neighbor:
+ramdon value j: 1768
+exchange vessels: 98 and 107
+after exchange, obj value is : 455028520
+prob is :0
+3th  neighbor:
+ramdon value j: 883
+exchange vessels: 37 and 267
+after exchange, obj value is : 455006760
+prob is :0
+4th  neighbor:
+ramdon value j: 2198
+exchange vessels: 113 and 158
+after exchange, obj value is : 454998440
+prob is :0
+5th  neighbor:
+ramdon value j: 2008
+exchange vessels: 105 and 158
+after exchange, obj value is : 455033000
+prob is :0
+6th  neighbor:
+ramdon value j: 324
+exchange vessels: 19 and 22
+after exchange, obj value is : 454996870
+prob is :0
+7th  neighbor:
+ramdon value j: 769
+exchange vessels: 34 and 88
+after exchange, obj value is : 455005830
+prob is :0
+8th  neighbor:
+ramdon value j: 2745
+exchange vessels: 165 and 191
+after exchange, obj value is : 454909710
+prob is :0
+9th  neighbor:
+ramdon value j: 3151
+exchange vessels: 191 and 254
+after exchange, obj value is : 454971290
+prob is :0
+10th  neighbor:
+ramdon value j: 2056
+exchange vessels: 112 and 255
+after exchange, obj value is : 454944290
+prob is :0
+temperature 19>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+ramdon value j: 591
+exchange vessels: 27 and 28
+after exchange, obj value is : 454911650
+prob is :0
+2th  neighbor:
+ramdon value j: 1214
+exchange vessels: 57 and 146
+after exchange, obj value is : 454846850
+prob is :0
+3th  neighbor:
+ramdon value j: 3276
+exchange vessels: 198 and 280
+after exchange, obj value is : 454783730
+prob is :0
+4th  neighbor:
+ramdon value j: 2994
+exchange vessels: 166 and 229
+after exchange, obj value is : 454815810
+prob is :0
+5th  neighbor:
+ramdon value j: 494
+exchange vessels: 23 and 85
+after exchange, obj value is : 454805410
+prob is :0
+6th  neighbor:
+ramdon value j: 643
+exchange vessels: 28 and 198
+after exchange, obj value is : 454830700
+prob is :0
+7th  neighbor:
+ramdon value j: 1676
+exchange vessels: 80 and 220
+after exchange, obj value is : 454776750
+prob is :0
+8th  neighbor:
+ramdon value j: 2713
+exchange vessels: 203 and 236
+after exchange, obj value is : 468739830
+prob is :0
+9th  neighbor:
+ramdon value j: 759
+exchange vessels: 42 and 58
+after exchange, obj value is : 468751350
+prob is :0
+10th  neighbor:
+ramdon value j: 2537
+exchange vessels: 214 and 236
+after exchange, obj value is : 448765810
+prob is :0
+temperature 20>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+ramdon value j: 1760
+exchange vessels: 129 and 189
+after exchange, obj value is : 448854290
+prob is :0
+2th  neighbor:
+ramdon value j: 747
+exchange vessels: 42 and 275
+after exchange, obj value is : 448884870
+prob is :0
+3th  neighbor:
+ramdon value j: 2382
+exchange vessels: 214 and 286
+after exchange, obj value is : 468883510
+prob is :0
+4th  neighbor:
+ramdon value j: 70
+exchange vessels: 6 and 177
+after exchange, obj value is : 468906190
+prob is :0
+5th  neighbor:
+ramdon value j: 53
+exchange vessels: 5 and 278
+after exchange, obj value is : 468929870
+prob is :0
+6th  neighbor:
+ramdon value j: 461
+exchange vessels: 22 and 275
+after exchange, obj value is : 468963190
+prob is :0
+7th  neighbor:
+ramdon value j: 2267
+exchange vessels: 144 and 158
+after exchange, obj value is : 468920950
+prob is :0
+8th  neighbor:
+ramdon value j: 2061
+exchange vessels: 126 and 207
+after exchange, obj value is : 468945790
+prob is :0
+9th  neighbor:
+ramdon value j: 259
+exchange vessels: 13 and 153
+after exchange, obj value is : 469019030
+prob is :0
+10th  neighbor:
+ramdon value j: 2591
+exchange vessels: 177 and 220
+after exchange, obj value is : 468939220
+prob is :0
+temperature 21>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+ramdon value j: 2829
+exchange vessels: 207 and 228
+after exchange, obj value is : 468931660
+prob is :0
+2th  neighbor:
+ramdon value j: 1645
+exchange vessels: 97 and 160
+after exchange, obj value is : 468871180
+prob is :0
+3th  neighbor:
+ramdon value j: 788
+exchange vessels: 27 and 230
+after exchange, obj value is : 468891760
+prob is :0
+4th  neighbor:
+ramdon value j: 1121
+exchange vessels: 43 and 235
+after exchange, obj value is : 468926320
+prob is :0
+5th  neighbor:
+ramdon value j: 2002
+exchange vessels: 96 and 286
+after exchange, obj value is : 424991920
+prob is :0
+6th  neighbor:
+ramdon value j: 2772
+exchange vessels: 175 and 184
+after exchange, obj value is : 424994480
+prob is :0
+7th  neighbor:
+ramdon value j: 18
+exchange vessels: 4 and 43
+after exchange, obj value is : 425027320
+prob is :0
+8th  neighbor:
+ramdon value j: 2495
+exchange vessels: 149 and 215
+after exchange, obj value is : 425047800
+prob is :0
+9th  neighbor:
+ramdon value j: 2492
+exchange vessels: 151 and 285
+after exchange, obj value is : 425059680
+prob is :0
+10th  neighbor:
+ramdon value j: 660
+exchange vessels: 19 and 88
+after exchange, obj value is : 425044510
+prob is :0
+temperature 22>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+ramdon value j: 74
+exchange vessels: 4 and 151
+after exchange, obj value is : 424961310
+prob is :0
+2th  neighbor:
+ramdon value j: 1108
+exchange vessels: 43 and 151
+after exchange, obj value is : 425077550
+prob is :0
+3th  neighbor:
+ramdon value j: 1419
+exchange vessels: 66 and 255
+after exchange, obj value is : 425117510
+prob is :0
+4th  neighbor:
+ramdon value j: 1120
+exchange vessels: 40 and 84
+after exchange, obj value is : 425110950
+prob is :0
+5th  neighbor:
+ramdon value j: 2693
+exchange vessels: 177 and 209
+after exchange, obj value is : 425198470
+prob is :0
+6th  neighbor:
+ramdon value j: 1308
+exchange vessels: 56 and 179
+after exchange, obj value is : 425237890
+prob is :0
+7th  neighbor:
+ramdon value j: 868
+exchange vessels: 27 and 280
+after exchange, obj value is : 425163370
+prob is :0
+8th  neighbor:
+ramdon value j: 446
+exchange vessels: 13 and 162
+after exchange, obj value is : 425156330
+prob is :0
+9th  neighbor:
+ramdon value j: 907
+exchange vessels: 33 and 137
+after exchange, obj value is : 425136890
+prob is :0
+10th  neighbor:
+ramdon value j: 1680
+exchange vessels: 76 and 264
+after exchange, obj value is : 425127170
+prob is :0
+proj-d200-01.prj --- 292 vessels, 4 sections
+_NUM_UNALLOCATED = 5
+Transhipment = 5134210
+Penalty      = 300000000
+Obj Value    = 305134210
+Time taken (sec) = 50.6713
+
+End of program

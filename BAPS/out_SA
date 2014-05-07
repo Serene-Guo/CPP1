@@ -1,0 +1,360 @@
+[H[2Jrunning all
+proj-d001-01.prj --- 6 vessels, 2 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 45000
+Penalty      = 0
+Obj Value    = 45000
+Time taken (sec) = 0.495655
+
+End of program
+running all
+proj-d002-01.prj --- 10 vessels, 3 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 205000
+Penalty      = 0
+Obj Value    = 205000
+Time taken (sec) = 4.69763
+
+End of program
+running all
+proj-d003-01.prj --- 15 vessels, 2 sections
+_NUM_UNALLOCATED = 4
+Transhipment = 64000
+Penalty      = 990000000
+Obj Value    = 990064000
+Time taken (sec) = 1.99774
+
+End of program
+running all
+proj-d004-01.prj --- 24 vessels, 2 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 297900
+Penalty      = 0
+Obj Value    = 297900
+Time taken (sec) = 2.6952
+
+End of program
+running all
+proj-d005-01.prj --- 60 vessels, 2 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 233400
+Penalty      = 0
+Obj Value    = 233400
+Time taken (sec) = 13.796
+
+End of program
+running all
+proj-d101-01.prj --- 96 vessels, 2 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 437400
+Penalty      = 0
+Obj Value    = 437400
+Time taken (sec) = 6.9269
+
+End of program
+running all
+proj-d102-01.prj --- 96 vessels, 2 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 425100
+Penalty      = 0
+Obj Value    = 425100
+Time taken (sec) = 7.64908
+
+End of program
+running all
+proj-d103-01.prj --- 96 vessels, 2 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 396600
+Penalty      = 0
+Obj Value    = 396600
+Time taken (sec) = 6.4927
+
+End of program
+running all
+proj-d104-01.prj --- 96 vessels, 2 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 399300
+Penalty      = 0
+Obj Value    = 399300
+Time taken (sec) = 6.55086
+
+End of program
+running all
+proj-d105-01.prj --- 96 vessels, 2 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 411300
+Penalty      = 0
+Obj Value    = 411300
+Time taken (sec) = 7.85913
+
+End of program
+running all
+proj-d144-01.prj --- 240 vessels, 3 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 2870400
+Penalty      = 0
+Obj Value    = 2870400
+Time taken (sec) = 17.261
+
+End of program
+running all
+proj-d145-01.prj --- 240 vessels, 3 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 3021600
+Penalty      = 0
+Obj Value    = 3021600
+Time taken (sec) = 16.9163
+
+End of program
+running all
+proj-d146-01.prj --- 302 vessels, 3 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 3462300
+Penalty      = 0
+Obj Value    = 3462300
+Time taken (sec) = 21.9619
+
+End of program
+running all
+proj-d151-01.prj --- 362 vessels, 3 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 3837600
+Penalty      = 0
+Obj Value    = 3837600
+Time taken (sec) = 26.4383
+
+End of program
+running all
+proj-d153-01.prj --- 362 vessels, 3 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 4612200
+Penalty      = 0
+Obj Value    = 4612200
+Time taken (sec) = 26.9423
+
+End of program
+running all
+proj-d154-01.prj --- 362 vessels, 3 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 4843500
+Penalty      = 0
+Obj Value    = 4843500
+Time taken (sec) = 26.6716
+
+End of program
+running all
+proj-d161-01.prj --- 240 vessels, 3 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 1343700
+Penalty      = 0
+Obj Value    = 1343700
+Time taken (sec) = 18.1055
+
+End of program
+running all
+proj-d165-01.prj --- 240 vessels, 3 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 1800000
+Penalty      = 0
+Obj Value    = 1800000
+Time taken (sec) = 18.1103
+
+End of program
+running all
+proj-d167-01.prj --- 302 vessels, 3 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 3165300
+Penalty      = 0
+Obj Value    = 3165300
+Time taken (sec) = 21.6354
+
+End of program
+running all
+proj-d172-01.prj --- 362 vessels, 3 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 5246100
+Penalty      = 0
+Obj Value    = 5246100
+Time taken (sec) = 31.1941
+
+End of program
+running all
+proj-d181-01.prj --- 166 vessels, 4 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 1715260
+Penalty      = 0
+Obj Value    = 1715260
+Time taken (sec) = 12.9872
+
+End of program
+running all
+proj-d182-01.prj --- 166 vessels, 4 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 1838150
+Penalty      = 0
+Obj Value    = 1838150
+Time taken (sec) = 12.9583
+
+End of program
+running all
+proj-d183-01.prj --- 166 vessels, 4 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 1703860
+Penalty      = 0
+Obj Value    = 1703860
+Time taken (sec) = 12.6404
+
+End of program
+running all
+proj-d184-01.prj --- 166 vessels, 4 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 1785250
+Penalty      = 0
+Obj Value    = 1785250
+Time taken (sec) = 12.4869
+
+End of program
+running all
+proj-d185-01.prj --- 166 vessels, 4 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 1972260
+Penalty      = 0
+Obj Value    = 1972260
+Time taken (sec) = 13.8358
+
+End of program
+running all
+proj-d186-01.prj --- 208 vessels, 4 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 2539630
+Penalty      = 0
+Obj Value    = 2539630
+Time taken (sec) = 15.7212
+
+End of program
+running all
+proj-d187-01.prj --- 208 vessels, 4 sections
+_NUM_UNALLOCATED = 1
+Transhipment = 2556460
+Penalty      = 0
+Obj Value    = 2556460
+Time taken (sec) = 16.4017
+
+End of program
+running all
+proj-d188-01.prj --- 208 vessels, 4 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 2602080
+Penalty      = 0
+Obj Value    = 2602080
+Time taken (sec) = 17.6937
+
+End of program
+running all
+proj-d189-01.prj --- 208 vessels, 4 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 2277110
+Penalty      = 0
+Obj Value    = 2277110
+Time taken (sec) = 16.3792
+
+End of program
+running all
+proj-d190-01.prj --- 208 vessels, 4 sections
+_NUM_UNALLOCATED = 0
+Transhipment = 2625510
+Penalty      = 0
+Obj Value    = 2625510
+Time taken (sec) = 16.499
+
+End of program
+running all
+proj-d191-01.prj --- 250 vessels, 4 sections
+_NUM_UNALLOCATED = 2
+Transhipment = 3383350
+Penalty      = 150000000
+Obj Value    = 153383350
+Time taken (sec) = 18.866
+
+End of program
+running all
+proj-d192-01.prj --- 250 vessels, 4 sections
+_NUM_UNALLOCATED = 3
+Transhipment = 3604150
+Penalty      = 97000000
+Obj Value    = 100604150
+Time taken (sec) = 19.7743
+
+End of program
+running all
+proj-d193-01.prj --- 250 vessels, 4 sections
+_NUM_UNALLOCATED = 4
+Transhipment = 3023600
+Penalty      = 175000000
+Obj Value    = 178023600
+Time taken (sec) = 19.2109
+
+End of program
+running all
+proj-d194-01.prj --- 250 vessels, 4 sections
+_NUM_UNALLOCATED = 1
+Transhipment = 3299210
+Penalty      = 60000000
+Obj Value    = 63299210
+Time taken (sec) = 18.3438
+
+End of program
+running all
+proj-d195-01.prj --- 250 vessels, 4 sections
+_NUM_UNALLOCATED = 3
+Transhipment = 3364550
+Penalty      = 270000000
+Obj Value    = 273364550
+Time taken (sec) = 19.4629
+
+End of program
+running all
+proj-d196-01.prj --- 292 vessels, 4 sections
+_NUM_UNALLOCATED = 8
+Transhipment = 4229260
+Penalty      = 478000000
+Obj Value    = 482229260
+Time taken (sec) = 22.5319
+
+End of program
+running all
+proj-d197-01.prj --- 292 vessels, 4 sections
+_NUM_UNALLOCATED = 10
+Transhipment = 4214460
+Penalty      = 508000000
+Obj Value    = 512214460
+Time taken (sec) = 22.9607
+
+End of program
+running all
+proj-d198-01.prj --- 292 vessels, 4 sections
+_NUM_UNALLOCATED = 3
+Transhipment = 4459020
+Penalty      = 120000000
+Obj Value    = 124459020
+Time taken (sec) = 23.4512
+
+End of program
+running all
+proj-d199-01.prj --- 292 vessels, 4 sections
+_NUM_UNALLOCATED = 6
+Transhipment = 4262900
+Penalty      = 301000000
+Obj Value    = 305262900
+Time taken (sec) = 23.0786
+
+End of program
+running all
+proj-d200-01.prj --- 292 vessels, 4 sections
+_NUM_UNALLOCATED = 5
+Transhipment = 3924520
+Penalty      = 195000000
+Obj Value    = 198924520
+Time taken (sec) = 23.0123
+
+End of program

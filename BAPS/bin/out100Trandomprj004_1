@@ -1,0 +1,108 @@
+running all
+greedy solution:
+0 2 2 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 2 1 2 2 
+375300
+temperature 1>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+exchange vessels: 16 and 24
+obj value is 336300
+yes
+2th  neighbor:
+exchange vessels: 20 and 23
+obj value is 297900
+yes
+3th  neighbor:
+exchange vessels: 20 and 23
+obj value is 336300
+yes
+4th  neighbor:
+exchange vessels: 20 and 23
+obj value is 297900
+yes
+5th  neighbor:
+exchange vessels: 20 and 23
+obj value is 336300
+yes
+6th  neighbor:
+exchange vessels: 14 and 16
+obj value is 367500
+yes
+7th  neighbor:
+exchange vessels: 14 and 16
+obj value is 336300
+yes
+8th  neighbor:
+exchange vessels: 7 and 23
+obj value is 360300
+yes
+9th  neighbor:
+exchange vessels: 7 and 23
+obj value is 336300
+yes
+10th  neighbor:
+exchange vessels: 20 and 23
+obj value is 297900
+yes
+temperature 2>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+exchange vessels: 20 and 23
+obj value is 336300
+yes
+2th  neighbor:
+exchange vessels: 20 and 23
+obj value is 297900
+yes
+3th  neighbor:
+exchange vessels: 20 and 23
+obj value is 336300
+yes
+4th  neighbor:
+exchange vessels: 20 and 23
+obj value is 297900
+yes
+5th  neighbor:
+exchange vessels: 7 and 20
+obj value is 360300
+yes
+6th  neighbor:
+exchange vessels: 7 and 20
+obj value is 297900
+yes
+7th  neighbor:
+exchange vessels: 20 and 23
+obj value is 336300
+yes
+8th  neighbor:
+exchange vessels: 20 and 23
+obj value is 297900
+yes
+9th  neighbor:
+exchange vessels: 20 and 23
+obj value is 336300
+yes
+10th  neighbor:
+exchange vessels: 14 and 16
+obj value is 367500
+yes
+temperature 3>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+exchange vessels: 14 and 16
+obj value is 336300
+yes
+2th  neighbor:
+exchange vessels: 12 and 23
+obj value is 371100
+yes
+3th  neighbor:
+exchange vessels: 12 and 20
+obj value is 297900
+yes
+4th  neighbor:
+exchange vessels: 20 and 23
+obj value is 336300
+yes
+5th  neighbor:
+exchange vessels: 13 and 24
+obj value is 336900
+yes
+6th  neighbor:

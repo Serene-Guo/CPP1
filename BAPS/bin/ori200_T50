@@ -1,0 +1,1264 @@
+running all
+initial solution:
+0 1 2 2 2 2 1 1 1 2 1 1 1 1 1 1 1 2 1 1 1 -1 1 2 3 3 2 1 3 3 2 1 1 1 3 1 3 1 2 1 1 3 2 1 1 1 1 1 1 3 1 3 2 2 3 2 1 2 1 3 2 3 2 1 3 4 1 3 3 1 3 3 1 2 1 3 3 1 3 2 3 1 3 3 1 1 1 1 2 3 3 3 1 2 1 1 3 1 3 3 3 2 2 1 2 1 1 1 3 1 1 4 1 3 3 2 3 2 1 2 -1 1 2 2 3 1 2 2 3 3 1 1 2 4 1 2 1 1 1 1 -1 4 3 1 3 3 1 3 1 2 1 1 1 1 1 1 1 3 2 3 2 1 2 1 1 1 1 2 2 1 1 3 1 3 3 2 3 1 1 1 3 2 3 2 2 1 3 2 1 3 1 1 1 3 1 2 3 3 3 2 1 1 1 3 3 1 1 1 1 1 4 2 1 1 2 2 1 1 1 3 3 3 3 2 3 2 1 1 1 2 1 3 1 2 1 3 3 1 1 2 2 2 4 1 3 1 1 2 1 1 3 1 1 2 1 2 1 3 1 1 2 1 1 3 1 3 3 1 1 3 -1 2 3 1 1 1 3 1 3 -1 1 2 3 3 1 3 1 2 3 1 1 1 2 
+initial obj value:305134210
+temperature 1>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 31 and 292
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 305135290
+deltCost 1080
+2th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 126 and 163
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 305147170
+deltCost 12960
+3th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 85 and 272
+before change: the section is 1and 3
+after  change: the section is 3and 1
+obj value is 305095490
+deltCost -38720
+accept neighour:
+change best solution>>>>>>>>
+4th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 16 and 241
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 305124530
+deltCost 29040
+5th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 86 and 224
+before change: the section is 1and 3
+after  change: the section is 3and 1
+obj value is 305099770
+deltCost 4280
+6th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 17 and 86
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 305096570
+deltCost 1080
+7th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 5 and 77
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 305082530
+deltCost -12960
+accept neighour:
+change best solution>>>>>>>>
+8th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 97 and 126
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 305145170
+deltCost 62640
+9th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 229 and 230
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 305088950
+deltCost 6420
+10th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 132 and 146
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 305107910
+deltCost 25380
+accept neighour:
+temperature 2>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 146 and 153
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 305100350
+deltCost -7560
+accept neighour:
+2th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 101 and 188
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 305121950
+deltCost 21600
+3th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 116 and 153
+before change: the section is 3and 2
+after  change: the section is 2and 3
+obj value is 305097790
+deltCost -2560
+accept neighour:
+4th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 231 and 290
+before change: the section is 3and 1
+after  change: the section is 1and 3
+obj value is 305093590
+deltCost -4200
+accept neighour:
+5th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 16 and 78
+before change: the section is 1and 3
+after  change: the section is 3and 1
+obj value is 305117190
+deltCost 23600
+accept neighour:
+6th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 163 and 250
+before change: the section is 1and 3
+after  change: the section is 3and 1
+obj value is 305101750
+deltCost -15440
+accept neighour:
+7th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 53 and 143
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 305122270
+deltCost 20520
+8th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 24 and 63
+before change: the section is 3and 1
+after  change: the section is 1and 3
+obj value is 305092990
+deltCost -8760
+accept neighour:
+9th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 153 and 249
+before change: the section is 3and 1
+after  change: the section is 1and 3
+obj value is 305097470
+deltCost 4480
+10th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 153 and 272
+before change: the section is 3and 1
+after  change: the section is 1and 3
+obj value is 305090070
+deltCost -2920
+accept neighour:
+temperature 3>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 110 and 119
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 305065230
+deltCost -24840
+accept neighour:
+change best solution>>>>>>>>
+2th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 63 and 165
+before change: the section is 3and 1
+after  change: the section is 1and 3
+obj value is 305073630
+deltCost 8400
+3th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 47 and 292
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 305040390
+deltCost -24840
+accept neighour:
+change best solution>>>>>>>>
+4th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 5 and 283
+before change: the section is 1and 3
+after  change: the section is 3and 1
+obj value is 305045570
+deltCost 5180
+5th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 86 and 101
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 305036070
+deltCost -4320
+accept neighour:
+change best solution>>>>>>>>
+6th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 156 and 183
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 305055510
+deltCost 19440
+7th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 73 and 289
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 305032050
+deltCost -4020
+accept neighour:
+change best solution>>>>>>>>
+8th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 78 and 224
+before change: the section is 1and 3
+after  change: the section is 3and 1
+obj value is 304989570
+deltCost -42480
+accept neighour:
+change best solution>>>>>>>>
+9th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 4 and 90
+before change: the section is 2and 3
+after  change: the section is 3and 2
+obj value is 305003010
+deltCost 13440
+10th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 86 and 90
+before change: the section is 2and 3
+after  change: the section is 3and 2
+obj value is 305024770
+deltCost 35200
+temperature 4>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 24 and 126
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 305004690
+deltCost 15120
+2th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 103 and 183
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 304984170
+deltCost -5400
+accept neighour:
+change best solution>>>>>>>>
+3th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 86 and 201
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 304981290
+deltCost -2880
+accept neighour:
+change best solution>>>>>>>>
+4th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 107 and 283
+before change: the section is 1and 3
+after  change: the section is 3and 1
+obj value is 304929070
+deltCost -52220
+accept neighour:
+change best solution>>>>>>>>
+5th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 53 and 143
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 304907470
+deltCost -21600
+accept neighour:
+change best solution>>>>>>>>
+6th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 220 and 230
+before change: the section is 3and 1
+after  change: the section is 1and 3
+obj value is 304966090
+deltCost 58620
+7th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 158 and 174
+before change: the section is 2and 3
+after  change: the section is 3and 2
+obj value is 304916430
+deltCost 8960
+8th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 21 and 29
+before change: the section is 4294967295and 3
+after  change: the section is 3and 4294967295
+obj value is 304915610
+deltCost 8140
+9th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 268 and 290
+before change: the section is 1and 3
+after  change: the section is 3and 1
+obj value is 304939950
+deltCost 32480
+10th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 32 and 108
+before change: the section is 1and 3
+after  change: the section is 3and 1
+obj value is 304866610
+deltCost -40860
+accept neighour:
+change best solution>>>>>>>>
+temperature 5>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 106 and 271
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 304864450
+deltCost -2160
+accept neighour:
+change best solution>>>>>>>>
+2th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 157 and 248
+before change: the section is 3and 1
+after  change: the section is 1and 3
+obj value is 304893410
+deltCost 28960
+accept neighour:
+3th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 33 and 126
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 304908530
+deltCost 15120
+accept neighour:
+4th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 24 and 199
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 304880450
+deltCost -28080
+accept neighour:
+5th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 5 and 17
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 304875050
+deltCost -5400
+accept neighour:
+6th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 101 and 201
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 304882250
+deltCost 7200
+7th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 143 and 170
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 304879370
+deltCost 4320
+8th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 24 and 248
+before change: the section is 2and 3
+after  change: the section is 3and 2
+obj value is 304843050
+deltCost -32000
+accept neighour:
+change best solution>>>>>>>>
+9th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 48 and 122
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 304887930
+deltCost 44880
+accept neighour:
+10th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 90 and 158
+before change: the section is 3and 2
+after  change: the section is 2and 3
+obj value is 304879610
+deltCost -8320
+accept neighour:
+temperature 6>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 216 and 253
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 304926050
+deltCost 46440
+2th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 110 and 174
+before change: the section is 2and 3
+after  change: the section is 3and 2
+obj value is 304902650
+deltCost 23040
+3th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 250 and 253
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 304870970
+deltCost -8640
+accept neighour:
+4th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 33 and 154
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 304906610
+deltCost 35640
+5th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 93 and 141
+before change: the section is 2and 4
+after  change: the section is 4and 2
+obj value is 304868410
+deltCost -2560
+accept neighour:
+6th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 86 and 106
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 304859770
+deltCost -8640
+accept neighour:
+7th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 78 and 88
+before change: the section is 3and 2
+after  change: the section is 2and 3
+obj value is 304875130
+deltCost 15360
+8th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 72 and 86
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 304868410
+deltCost 8640
+9th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 116 and 222
+before change: the section is 2and 3
+after  change: the section is 3and 2
+obj value is 304886650
+deltCost 26880
+10th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 93 and 180
+before change: the section is 4and 3
+after  change: the section is 3and 4
+obj value is 304844770
+deltCost -15000
+accept neighour:
+temperature 7>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 215 and 276
+before change: the section is 2and 3
+after  change: the section is 3and 2
+obj value is 304874210
+deltCost 29440
+2th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 86 and 106
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 304853410
+deltCost 8640
+accept neighour:
+3th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 141 and 180
+before change: the section is 2and 4
+after  change: the section is 4and 2
+obj value is 304835130
+deltCost -18280
+accept neighour:
+change best solution>>>>>>>>
+4th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 149 and 265
+before change: the section is 2and 3
+after  change: the section is 3and 2
+obj value is 304831290
+deltCost -3840
+accept neighour:
+change best solution>>>>>>>>
+5th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 85 and 133
+before change: the section is 3and 4
+after  change: the section is 4and 3
+obj value is 304843290
+deltCost 12000
+6th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 77 and 271
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 304891770
+deltCost 60480
+7th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 9 and 132
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 304808070
+deltCost -23220
+accept neighour:
+change best solution>>>>>>>>
+8th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 250 and 283
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 304804290
+deltCost -3780
+accept neighour:
+change best solution>>>>>>>>
+9th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 77 and 122
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 304806450
+deltCost 2160
+accept neighour:
+10th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 4 and 72
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 304804290
+deltCost -2160
+accept neighour:
+temperature 8>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 23 and 278
+before change: the section is 2and 3
+after  change: the section is 3and 2
+obj value is 304845890
+deltCost 41600
+2th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 115 and 253
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 304828050
+deltCost 23760
+3th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 97 and 106
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 304825890
+deltCost 21600
+4th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 19 and 283
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 304827570
+deltCost 23280
+5th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 72 and 105
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 304812930
+deltCost 8640
+6th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 16 and 230
+before change: the section is 3and 1
+after  change: the section is 1and 3
+obj value is 304816760
+deltCost 12470
+7th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 116 and 213
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 304810770
+deltCost 6480
+8th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 71 and 157
+before change: the section is 3and 1
+after  change: the section is 1and 3
+obj value is 304837090
+deltCost 32800
+9th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 6 and 233
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 304852890
+deltCost 48600
+10th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 14 and 193
+before change: the section is 1and 3
+after  change: the section is 3and 1
+obj value is 304795050
+deltCost -9240
+accept neighour:
+change best solution>>>>>>>>
+temperature 9>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 180 and 221
+before change: the section is 2and 3
+after  change: the section is 3and 2
+obj value is 304837290
+deltCost 42240
+2th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 21 and 96
+before change: the section is 4294967295and 3
+after  change: the section is 3and 4294967295
+obj value is 304805690
+deltCost 10640
+3th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 77 and 132
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 304797750
+deltCost 2700
+4th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 35 and 244
+before change: the section is 1and 3
+after  change: the section is 3and 1
+obj value is 304763260
+deltCost -31790
+accept neighour:
+change best solution>>>>>>>>
+5th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 149 and 289
+before change: the section is 3and 2
+after  change: the section is 2and 3
+obj value is 304754300
+deltCost -8960
+accept neighour:
+change best solution>>>>>>>>
+6th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 70 and 241
+before change: the section is 3and 2
+after  change: the section is 2and 3
+obj value is 304779520
+deltCost 25220
+7th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 162 and 252
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 304745660
+deltCost -8640
+accept neighour:
+change best solution>>>>>>>>
+8th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 103 and 227
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 304742420
+deltCost -3240
+accept neighour:
+change best solution>>>>>>>>
+9th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 36 and 65
+before change: the section is 3and 4
+after  change: the section is 4and 3
+obj value is 304734920
+deltCost -7500
+accept neighour:
+change best solution>>>>>>>>
+10th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 28 and 133
+before change: the section is 3and 4
+after  change: the section is 4and 3
+obj value is 304715920
+deltCost -19000
+accept neighour:
+change best solution>>>>>>>>
+temperature 10>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 9 and 16
+before change: the section is 1and 3
+after  change: the section is 3and 1
+obj value is 304729520
+deltCost 13600
+2th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 86 and 252
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 304705120
+deltCost -10800
+accept neighour:
+change best solution>>>>>>>>
+3th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 70 and 183
+before change: the section is 3and 1
+after  change: the section is 1and 3
+obj value is 304716440
+deltCost 11320
+4th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 43 and 106
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 304720240
+deltCost 15120
+5th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 107 and 244
+before change: the section is 3and 1
+after  change: the section is 1and 3
+obj value is 304723920
+deltCost 18800
+6th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 132 and 277
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 304736440
+deltCost 31320
+7th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 149 and 278
+before change: the section is 2and 3
+after  change: the section is 3and 2
+obj value is 304723680
+deltCost 18560
+8th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 222 and 265
+before change: the section is 3and 2
+after  change: the section is 2and 3
+obj value is 304721760
+deltCost 16640
+accept neighour:
+9th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 106 and 232
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 304705560
+deltCost -16200
+accept neighour:
+10th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 158 and 247
+before change: the section is 3and 2
+after  change: the section is 2and 3
+obj value is 304735000
+deltCost 29440
+temperature 11>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 24 and 30
+before change: the section is 3and 2
+after  change: the section is 2and 3
+obj value is 304747800
+deltCost 42240
+2th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 24 and 88
+before change: the section is 3and 2
+after  change: the section is 2and 3
+obj value is 304690200
+deltCost -15360
+accept neighour:
+change best solution>>>>>>>>
+3th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 26 and 178
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 304724760
+deltCost 34560
+4th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 9 and 160
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 304732320
+deltCost 42120
+accept neighour:
+5th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 72 and 194
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 304748520
+deltCost 16200
+accept neighour:
+6th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 77 and 113
+before change: the section is 1and 3
+after  change: the section is 3and 1
+obj value is 304778260
+deltCost 29740
+7th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 42 and 66
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 304771200
+deltCost 22680
+8th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 24 and 249
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 304780920
+deltCost 32400
+9th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 194 and 250
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 304729080
+deltCost -19440
+accept neighour:
+10th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 100 and 242
+before change: the section is 3and 4
+after  change: the section is 4and 3
+obj value is 304721080
+deltCost -8000
+accept neighour:
+temperature 12>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 78 and 258
+before change: the section is 3and 1
+after  change: the section is 1and 3
+obj value is 304725280
+deltCost 4200
+2th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 16 and 258
+before change: the section is 3and 1
+after  change: the section is 1and 3
+obj value is 304757760
+deltCost 36680
+3th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 77 and 222
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 304718920
+deltCost -2160
+accept neighour:
+4th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 78 and 153
+before change: the section is 3and 1
+after  change: the section is 1and 3
+obj value is 304724200
+deltCost 5280
+5th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 218 and 282
+before change: the section is 1and 3
+after  change: the section is 3and 1
+obj value is 304775000
+deltCost 56080
+6th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 90 and 259
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 304716220
+deltCost -2700
+accept neighour:
+7th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 48 and 264
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 304687540
+deltCost -28680
+accept neighour:
+change best solution>>>>>>>>
+8th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 3 and 270
+before change: the section is 2and 4294967295
+after  change: the section is 4294967295and 2
+obj value is 304636360
+deltCost -51180
+accept neighour:
+change best solution>>>>>>>>
+9th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 28 and 196
+before change: the section is 4and 3
+after  change: the section is 3and 4
+obj value is 304652360
+deltCost 16000
+10th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 157 and 232
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 304622320
+deltCost -14040
+accept neighour:
+change best solution>>>>>>>>
+temperature 13>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 151 and 265
+before change: the section is 1and 3
+after  change: the section is 3and 1
+obj value is 304605680
+deltCost -16640
+accept neighour:
+change best solution>>>>>>>>
+2th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 151 and 153
+before change: the section is 3and 1
+after  change: the section is 1and 3
+obj value is 304615120
+deltCost 9440
+3th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 192 and 272
+before change: the section is 1and 3
+after  change: the section is 3and 1
+obj value is 304631640
+deltCost 25960
+4th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 24 and 78
+before change: the section is 2and 3
+after  change: the section is 3and 2
+obj value is 304628720
+deltCost 23040
+accept neighour:
+5th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 71 and 175
+before change: the section is 3and 2
+after  change: the section is 2and 3
+obj value is 304660720
+deltCost 32000
+6th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 47 and 176
+before change: the section is 2and 3
+after  change: the section is 3and 2
+obj value is 304655600
+deltCost 26880
+7th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 151 and 222
+before change: the section is 3and 1
+after  change: the section is 1and 3
+obj value is 304611440
+deltCost -17280
+accept neighour:
+8th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 67 and 283
+before change: the section is 3and 2
+after  change: the section is 2and 3
+obj value is 304623600
+deltCost 12160
+9th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 99 and 149
+before change: the section is 3and 2
+after  change: the section is 2and 3
+obj value is 304628080
+deltCost 16640
+10th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 258 and 259
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 304637360
+deltCost 25920
+temperature 14>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 71 and 86
+before change: the section is 3and 2
+after  change: the section is 2and 3
+obj value is 304620400
+deltCost 8960
+2th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 3 and 243
+before change: the section is 4294967295and 1
+after  change: the section is 1and 4294967295
+obj value is 274672760
+deltCost -29938680
+accept neighour:
+change best solution>>>>>>>>
+3th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 227 and 243
+before change: the section is 2and 4294967295
+after  change: the section is 4294967295and 2
+obj value is 274681460
+deltCost 8700
+4th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 55 and 245
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 274690040
+deltCost 17280
+5th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 32 and 55
+before change: the section is 3and 2
+after  change: the section is 2and 3
+obj value is 274687480
+deltCost 14720
+6th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 12 and 14
+before change: the section is 1and 3
+after  change: the section is 3and 1
+obj value is 274644800
+deltCost -27960
+accept neighour:
+change best solution>>>>>>>>
+7th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 70 and 230
+before change: the section is 3and 1
+after  change: the section is 1and 3
+obj value is 274647830
+deltCost 3030
+8th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 70 and 153
+before change: the section is 3and 1
+after  change: the section is 1and 3
+obj value is 274640080
+deltCost -4720
+accept neighour:
+change best solution>>>>>>>>
+9th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 16 and 28
+before change: the section is 3and 4
+after  change: the section is 4and 3
+obj value is 274667080
+deltCost 27000
+accept neighour:
+10th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 24 and 79
+before change: the section is 3and 2
+after  change: the section is 2and 3
+obj value is 274658760
+deltCost -8320
+accept neighour:
+temperature 15>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 220 and 259
+before change: the section is 3and 2
+after  change: the section is 2and 3
+obj value is 274695430
+deltCost 36670
+2th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 60 and 131
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 274678200
+deltCost 19440
+3th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 71 and 110
+before change: the section is 3and 2
+after  change: the section is 2and 3
+obj value is 274638280
+deltCost -20480
+accept neighour:
+change best solution>>>>>>>>
+4th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 77 and 158
+before change: the section is 2and 3
+after  change: the section is 3and 2
+obj value is 274653640
+deltCost 15360
+5th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 125 and 157
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 274664200
+deltCost 25920
+6th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 77 and 265
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 274662040
+deltCost 23760
+7th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 44 and 240
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 274643680
+deltCost 5400
+8th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 196 and 227
+before change: the section is 3and 2
+after  change: the section is 2and 3
+obj value is 274634440
+deltCost -3840
+accept neighour:
+change best solution>>>>>>>>
+9th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 63 and 141
+before change: the section is 3and 4
+after  change: the section is 4and 3
+obj value is 274627440
+deltCost -7000
+accept neighour:
+change best solution>>>>>>>>
+10th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 16 and 107
+before change: the section is 4and 3
+after  change: the section is 3and 4
+obj value is 274627440
+deltCost 0
+accept neighour:
+temperature 16>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+1th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 61 and 107
+before change: the section is 3and 4
+after  change: the section is 4and 3
+obj value is 274620440
+deltCost -7000
+accept neighour:
+change best solution>>>>>>>>
+2th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 81 and 282
+before change: the section is 1and 3
+after  change: the section is 3and 1
+obj value is 274662920
+deltCost 42480
+accept neighour:
+3th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 47 and 290
+before change: the section is 2and 3
+after  change: the section is 3and 2
+obj value is 274647560
+deltCost -15360
+accept neighour:
+4th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 99 and 287
+before change: the section is 3and 2
+after  change: the section is 2and 3
+obj value is 274656520
+deltCost 8960
+5th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 90 and 153
+before change: the section is 1and 3
+after  change: the section is 3and 1
+obj value is 274675720
+deltCost 28160
+6th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 55 and 156
+before change: the section is 2and 1
+after  change: the section is 1and 2
+obj value is 274669160
+deltCost 21600
+7th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 61 and 227
+before change: the section is 4and 3
+after  change: the section is 3and 4
+obj value is 274632560
+deltCost -15000
+accept neighour:
+8th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 181 and 220
+before change: the section is 2and 3
+after  change: the section is 3and 2
+obj value is 274652590
+deltCost 20030
+9th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 70 and 86
+before change: the section is 1and 2
+after  change: the section is 2and 1
+obj value is 274639040
+deltCost 6480
+accept neighour:
+10th  neighbor:
+the number of pairs which can exchange:10
+exchange vessels: 31 and 189
+before change: the section is 1and 3
+after  change: the section is 3and 1
+obj value is 274602840
+deltCost -36200
+accept neighour:
+change best solution>>>>>>>>
+proj-d200-01.prj --- 292 vessels, 4 sections
+_NUM_UNALLOCATED = 5
+Transhipment = 4602840
+Penalty      = 270000000
+Obj Value    = 274602840
+Time taken (sec) = 37.3311
+
+End of program

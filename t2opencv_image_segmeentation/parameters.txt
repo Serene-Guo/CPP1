@@ -1,0 +1,15 @@
+
+circle.bmp  circle_markup.bmp  circle_res.bmp 
+island75.bmp  island_markup.bmp  island75_res.bmp 
+circle_blur10.bmp  circle_blur_markup.bmp  circle_blur10_res.bmp
+circle_blur20.bmp  circle_markup.bmp  circle20_blur_res.bmp  
+circle_blur20.bmp  circle_markup.bmp  circle_blur20_res_p.bmp   circle_blur20binprob3.bmp
+
+fairy.bmp  fairy_markup.bmp  fairy_res.bmp  
+redboots10.bmp  redboots_markup.bmp  redboots10_res.bmp  
+cessna10.bmp  cessna_markup.bmp  cessna10_res.bmp  cessna10binprob3.bmp
+cessna10.bmp  cessna_markup.bmp  cessna10_res_p.bmp   cessna10_binprob3.bmp
+rgb10.bmp  rgb_markup.bmp  rgb10_res_p.bmp  rgb10binprob3.bmp
+rgb75.bmp  rgb_markup.bmp  rgb75_res_p.bmp  rgb75binprob3.bmp
+owl.bmp	owl_markup.bmp	owl_res.bmp
+owl10.bmp owl_markup.bmp owl10_res.bmp
