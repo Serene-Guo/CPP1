@@ -1,0 +1,301 @@
+// filehdr.cc 
+//	Routines for managing the disk file header (in UNIX, this
+//	would be called the i-node).
+//
+//	The file header is used to locate where on disk the 
+//	file's data is stored.  We implement this as a fixed size
+//	table of pointers -- each entry in the table points to the 
+//	disk sector containing that portion of the file data
+//	(in other words, there are no indirect or doubly indirect 
+//	blocks). The table size is chosen so that the file header
+//	will be just big enough to fit in one disk sector, 
+//
+//      Unlike in a real system, we do not keep track of file permissions, 
+//	ownership, last modification date, etc., in the file header. 
+//
+//	A file header can be initialized in two ways:
+//	   for a new file, by modifying the in-memory data structure
+//	     to point to the newly allocated data blocks
+//	   for a file already on disk, by reading the file header from disk
+//
+// Copyright (c) 1992-1993 The Regents of the University of California.
+// All rights reserved.  See copyright.h for copyright notice and limitation 
+// of liability and disclaimer of warranty provisions.
+
+#include "copyright.h"
+
+#include "system.h"
+#include "filehdr.h"
+
+//----------------------------------------------------------------------
+// FileHeader::Allocate
+// 	Initialize a fresh file header for a newly created file.
+//	Allocate data blocks for the file out of the map of free disk blocks.
+//	Return FALSE if there are not enough free blocks to accomodate
+//	the new file.
+//
+//	"freeMap" is the bit map of free disk sectors
+//	"fileSize" is the bit map of free disk sectors
+//----------------------------------------------------------------------
+
+bool
+FileHeader::Allocate(BitMap *freeMap, int fileSize)
+{ 
+    numBytes = fileSize;
+    numSectors  = divRoundUp(fileSize, SectorSize);
+    //printf("给文件分配扇区，即填写fileHeader,文件大小 %d,所占扇区数 %d",numBytes,numSectors);
+    flag=-1; //初始化 为 没有 二级索引块
+    if (freeMap->NumClear()-1 < numSectors)
+        {//为什么 要 减1  因为 有可能二级索引块，也要站一个扇区
+        printf("\n新文件太大，not enough space！\n");
+	return FALSE;
+        }   
+    if(numSectors<=29)
+    {   //没有二级索引块
+        for (int i = 0; i < numSectors; i++)
+	dataSectors[i] = freeMap->Find();
+
+         // printf("\n分配完一个文件头。。。\n");
+         // freeMap->Print();
+
+        return TRUE;
+
+    }
+   else{
+      //文件大小 > 29*sectorSize; 需要有 二级索引块！！！！！！！！！！！！！！！！
+      for (int i = 0; i <29; i++)
+	dataSectors[i] = freeMap->Find();
+
+     flag=freeMap->Find();  //二级索引块 所在的扇区号
+
+     for(int i=29;i<numSectors;i++)
+ 
+           dataSectors[i]=freeMap->Find();
+ 
+//printf("\n分配完一个文件头。。。\n");
+// freeMap->Print();
+
+      return TRUE;
+
+    }
+
+
+}
+
+
+bool FileHeader::AppSector(BitMap *freeMap,int fileSize,bool half)
+{
+                  if(fileSize<=0) 
+                    return true;
+
+                  int restBytes;
+                  if (half)
+                  restBytes=numSectors*SectorSize-numBytes/2;
+                 else
+               restBytes=numSectors*SectorSize-numBytes;
+
+            if(restBytes>=fileSize)
+            // 不需要 在分配扇区  直接增加 numBytes 就可以了 
+           {
+              if(half)
+                    numBytes=numBytes/2+fileSize;
+               else 
+                    numBytes+=fileSize;
+             printf("不需要 分配磁盘 。。。。。。。。。。。。。。。。。。。。。。filehdr.cc文件");
+             return true;
+            }
+         else
+        { // 需要分配扇区 
+                      if(half)
+                    numBytes=numBytes/2+fileSize; // 修改 hdr的  属性 
+               else numBytes+=fileSize;
+
+
+          int moreBytes=fileSize-restBytes;
+               if(freeMap->NumClear()<divRoundUp(moreBytes,SectorSize))
+                            return false;
+       int i=numSectors;
+       numSectors+= divRoundUp(moreBytes,SectorSize);  //修改 hdr 的属性 
+if(numSectors<=29) 
+       {flag=-1;
+    for(;i<numSectors;i++)
+               {
+              dataSectors[i]=freeMap->Find();
+              printf("分配 %d 号扇区-------没有二级索引 \n",dataSectors[i]);
+                   }
+       }
+else
+   { 
+     for(;i<29;i++)
+               {
+              dataSectors[i]=freeMap->Find();
+             // printf("你好 %d -------没有二级索引 \n",dataSectors[i]);
+                }
+    flag=freeMap->Find();
+printf("  -----二级索引为%d \n",flag);
+    for(;i<numSectors;i++)
+           {
+            dataSectors[i]=freeMap->Find();
+             }
+    }
+
+
+
+
+        return true;
+
+      } 
+}
+//----------------------------------------------------------------------
+// FileHeader::Deallocate
+// 	De-allocate all the space allocated for data blocks for this file.
+//
+//	"freeMap" is the bit map of free disk sectors
+//----------------------------------------------------------------------
+
+void 
+FileHeader::Deallocate(BitMap *freeMap)
+{
+    for (int i = 0; i < numSectors; i++) {
+	ASSERT(freeMap->Test((int) dataSectors[i]));  // ought to be marked!
+	freeMap->Clear((int) dataSectors[i]);
+    }
+}
+
+//----------------------------------------------------------------------
+// FileHeader::FetchFrom
+// 	Fetch contents of file header from disk. 
+//
+//	"sector" is the disk sector containing the file header
+//----------------------------------------------------------------------
+
+void
+FileHeader::FetchFrom(int sector)
+{
+  /*
+ 还未 去出来呢  所以 不知道 numSectors
+if(numSectors<=29)
+    {synchDisk->ReadSector(sector, (char *)this);
+ printf("\n读出的hdr的flag is %d:---文件没llll有二级索引-------from  filehdr.cc文件\n",flag);
+}
+*/
+
+ 
+   // printf("\nFetchFrom  sector %d: from  filehdr.cc文件\n",sector);
+     // int  buf[32];
+    // synchDisk->ReadSector(sector, (char *)buf);
+//  printf("向缓冲区中读  %d,%d,%d ----------------\n",buf[0],buf[1],buf[3]);
+ 
+
+
+    synchDisk->ReadSector(sector, (char *)this);
+    printf("numBytes %d, numSectors %d, flag %d\n",numBytes,numSectors,flag);
+  
+if(flag>0)
+  { //下面 读 第二个 扇区
+         int temp[32];
+printf("Fecth from 二级索引块 %d",flag);
+    synchDisk->ReadSector(flag, (char *)temp); 
+  // printf("\n读出的hdr 的temp[0] is %d:---------------------from  filehdr.cc文件\n",temp[0]);
+    //将内容 转到 dataSectors[29]~dataSectors[numSectors-1];
+  for(int i=29;i<numSectors;i++)
+       dataSectors[i]=temp[i-29];
+
+ }
+  
+}
+
+//----------------------------------------------------------------------
+// FileHeader::WriteBack
+// 	Write the modified contents of the file header back to disk. 
+//
+//	"sector" is the disk sector to contain the file header
+//----------------------------------------------------------------------
+
+void
+FileHeader::WriteBack(int sector)
+{
+   if(flag==-1)
+       {
+      // printf("fileHeader->writeBack sector %d,没有二级索引块\n",sector);
+       synchDisk->WriteSector(sector, (char *)this); 
+
+       }
+   else
+     {
+       int temp1[32];
+    temp1[0]=numBytes;
+    temp1[1]=numSectors;
+   temp1[2]=flag;
+   for(int i=3;i<32;i++)
+        temp1[i]=dataSectors[i-3];
+
+      synchDisk->WriteSector(sector, (char *)temp1);
+
+      int temp[numSectors-29];
+
+for(int i=0;i<numSectors-29;i++)
+  temp[i]=dataSectors[29+i];
+
+       synchDisk->WriteSector(flag, (char *)temp);
+      }
+}
+
+//----------------------------------------------------------------------
+// FileHeader::ByteToSector
+// 	Return which disk sector is storing a particular byte within the file.
+//      This is essentially a translation from a virtual address (the
+//	offset in the file) to a physical address (the sector where the
+//	data at the offset is stored).
+//
+//	"offset" is the location within the file of the byte in question
+//----------------------------------------------------------------------
+
+int
+FileHeader::ByteToSector(int offset)
+{
+
+//printf("\ndataSectors[]%d\n",dataSectors[offset / SectorSize]);
+    return(dataSectors[offset / SectorSize]);
+}
+
+//----------------------------------------------------------------------
+// FileHeader::FileLength
+// 	Return the number of bytes in the file.
+//----------------------------------------------------------------------
+
+int
+FileHeader::FileLength()
+{
+    return numBytes;
+}
+
+//----------------------------------------------------------------------
+// FileHeader::Print
+// 	Print the contents of the file header, and the contents of all
+//	the data blocks pointed to by the file header.
+//----------------------------------------------------------------------
+
+void
+FileHeader::Print()
+{
+    int i, j, k;
+    char *data = new char[SectorSize];
+
+    printf("FileHeader contents.  File size: %d. numSectors is %d . flag is %d File blocks:\n", numBytes,numSectors,flag);
+    for (i = 0; i < numSectors; i++)
+	printf("%d  ", dataSectors[i]);
+    printf("\nFile contents:\n");
+    for (i = k = 0; i < numSectors; i++) {
+	synchDisk->ReadSector(dataSectors[i], data);
+  // printf("hdr 输出，从dataSector[]数组中对应的扇区号中 读取内容\n");
+        for (j = 0; (j < SectorSize) && (k < numBytes); j++, k++) {
+	    if ('\040' <= data[j] && data[j] <= '\176')   // isprint(data[j])
+		printf("%c", data[j]);
+            else
+		printf("\\%x", (unsigned char)data[j]);
+	}
+        printf("\n"); 
+    }
+    delete [] data;
+}

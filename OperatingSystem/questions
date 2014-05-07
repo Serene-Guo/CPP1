@@ -1,0 +1,17 @@
+问题1、为什么 userprog目录下 可以调用 threads目录下的 main 函数？
+
+/code/threads    scheduler.cc  .h 
+ scheduler 类里有方法 Thread* FindNextToRun(); 方法内容如下：	
+Thread *
+Scheduler::FindNextToRun ()
+{
+    return (Thread *)readyList->Remove();
+
+//只是简单的 FCFS 调度方案，所以...
+/// 给 readyList 增加一个方法 find_highest_priority(); 返回一个线程的指针 。。。
+}
+
+要添加这个方法之前，首先得增加 thread类的属性 int priority，
+Thread * List ::find_highest_priority(){
+
+}
